@@ -1,3 +1,5 @@
+#EXTINF:-1 tvg-id="DISNEY CL" tvg-name="CL: Disney Channel HD" tvg-logo="http://logos.iptv.wtf/infantiles/disneychannel.png" group-title="Chile",CL: Disney Channel HD
+http://live.iptv.wtf:80/live/ngkxherx/sC3kG5b89k/9032.ts
 #EXTINF:-1 tvg-id="CANAL13C CL" tvg-name="CL: 13C" tvg-logo="http://logos.iptv.wtf/chile/13c.png" group-title="Chile",CL: 13C
 http://live.iptv.wtf:80/live/ngkxherx/sC3kG5b89k/14876.ts
 #EXTINF:-1 tvg-id="CANAL13C CL" tvg-name="CL: 13C *" tvg-logo="http://logos.iptv.wtf/chile/13c.png" group-title="Chile",CL: 13C *
